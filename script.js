@@ -1,8 +1,25 @@
 let yourArray = [
-  ['hello', 42, true],
-  [null, 'world', 10],
-  [false, 'foo', 3.14],
-  ['bar', 0, true],
-  [undefined, 'baz', -5]
+ [
+	 {
+		 one:1,
+		 two:2
+	 },
+	 {
+		 name:"vishal",
+		 job:"frontend"
+	 },
+	 {
+		 yash:false,
+		 student:true
+	 },
+	 {
+		 ghar:undefined,
+		 har:null
+	 },
+	 {
+		 four:5,
+		 five:6
+	 }
+ ]
 ];
 
