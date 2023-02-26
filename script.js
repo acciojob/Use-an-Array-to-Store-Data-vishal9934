@@ -1,1 +1,1 @@
-let yourArray=[1,"one",null,true,undefined];
+let yourArray = ["three",5,true,false,null,undefined];
